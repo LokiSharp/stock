@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "stock"
+version = "0.1.0"
+description = ""
+authors = ["LokiSharp <loki.sharp@gmail.com>"]
+license = "GPL-3.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
